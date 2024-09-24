@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340136798702",
+    "project_id": "efaria-c79d3",
+    "storage_bucket": "efaria-c79d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340136798702:android:264c3eaf5a37a15b5086ff",
+        "android_client_info": {
+          "package_name": "com.mycompany.efaria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyueiszuuuY5D68XY0RX2li2er-lAjhz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
